@@ -1,0 +1,16 @@
+{
+	"name": "application",
+	"author": "David Leonardi"
+	"version":"0.0.1",
+	"directories": {
+		"lib": "."
+	},
+	"main": "main",
+	"description": "An example of meteor working with dojo",
+	"licenses": [
+		 {
+				 "type": "MIT",
+		 }
+	],
+	"dojoBuild": "application.profile.js"
+}
